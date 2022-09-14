@@ -1,0 +1,33 @@
+.myCrausal {
+    width: auto;
+    height: 570px;
+    max-height: 570px;
+}
+/* .myCrausal{
+    width: auto;
+    height: 630px;
+    max-height: 630px; */
+/* } */
+#carousel-item {
+    color: black;
+    text-align: right;
+    text-decoration: none;
+}
+#mylist {
+    text-align: justify;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#navHead {
+    height: 100px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+#navbar {
+    color: black;
+}
+
+#navbar::hover {
+    color: black;
+}
